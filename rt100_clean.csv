@@ -1,0 +1,101 @@
+ranking,title,audience_count,audience_score,critic_count,critic_score,movie_rating,url,year_of_release,box_office_mil_usd
+1,Black Panther ,88211,79,525,96,PG-13,https://www.rottentomatoes.com/m/black_panther_2018/,2018,700.2
+2,Lady Bird ,22958,79,398,99,R,https://www.rottentomatoes.com/m/lady_bird/,2017,48.9
+3,Mission: Impossible -- Fallout,16444,88,435,97,PG-13,https://www.rottentomatoes.com/m/mission_impossible_fallout/,2018,220.1
+4,Blackkklansman ,11656,83,446,96,R,https://www.rottentomatoes.com/m/blackkklansman/,2018,48.6
+5,Get Out ,76104,86,397,98,R,https://www.rottentomatoes.com/m/get_out/,2017,176.0
+6,Mad Max: Fury Road ,128828,86,427,97,R,https://www.rottentomatoes.com/m/mad_max_fury_road/,2015,153.6
+7,Spider-Man: Into The Spider-Verse,21106,93,391,97,PG,https://www.rottentomatoes.com/m/spider_man_into_the_spider_verse/,2018,190.2
+8,Moonlight ,45817,79,390,98,R,https://www.rottentomatoes.com/m/moonlight_2016/,2016,27.9
+9,Wonder Woman ,134417,83,468,93,PG-13,https://www.rottentomatoes.com/m/wonder_woman_2017/,2017,412.8
+10,A Star Is Born ,20872,79,525,90,R,https://www.rottentomatoes.com/m/a_star_is_born_2018/,2018,215.3
+11,A Quiet Place ,24198,83,387,96,PG-13,https://www.rottentomatoes.com/m/a_quiet_place_2018/,2018,68.4
+12,Inside Out ,137168,89,374,98,PG,https://www.rottentomatoes.com/m/inside_out_2015/,2015,2.0
+13,Dunkirk ,69190,81,461,92,PG-13,https://www.rottentomatoes.com/m/dunkirk_2017/,2017,188.0
+14,Coco ,28459,94,351,97,PG,https://www.rottentomatoes.com/m/coco_2017/,2017,210.5
+15,The Shape Of Water ,26062,72,459,92,R,https://www.rottentomatoes.com/m/the_shape_of_water_2017/,2017,63.3
+16,Thor: Ragnarok ,95483,87,435,93,PG-13,https://www.rottentomatoes.com/m/thor_ragnarok_2017/,2017,315.0
+17,Selma ,61559,86,313,99,PG-13,https://www.rottentomatoes.com/m/selma/,2014,52.1
+18,Arrival ,83739,82,434,94,PG-13,https://www.rottentomatoes.com/m/arrival_2016/,2016,100.5
+19,Logan ,93214,90,421,93,R,https://www.rottentomatoes.com/m/logan_2017/,2017,226.3
+20,Star Wars: The Last Jedi ,224249,42,479,90,PG-13,https://www.rottentomatoes.com/m/star_wars_the_last_jedi/,2017,620.2
+21,The Big Sick ,32916,88,303,98,R,https://www.rottentomatoes.com/m/the_big_sick/,2017,42.9
+22,Star Wars: The Force Awakens ,235718,85,443,93,PG-13,https://www.rottentomatoes.com/m/star_wars_episode_vii_the_force_awakens/,2015,247.0
+23,Boyhood ,89849,80,327,97,R,https://www.rottentomatoes.com/m/boyhood/,2014,25.4
+24,Gravity ,303343,80,356,96,PG-13,https://www.rottentomatoes.com/m/gravity_2013/,2013,274.1
+25,12 Years A Slave ,140502,90,373,95,R,https://www.rottentomatoes.com/m/12_years_a_slave/,2013,56.7
+26,Leave No Trace ,4947,80,239,100,PG,https://www.rottentomatoes.com/m/leave_no_trace/,2018,6.0
+27,Manchester By The Sea ,50368,78,351,96,R,https://www.rottentomatoes.com/m/manchester_by_the_sea/,2016,47.7
+28,La La Land ,71688,81,464,91,PG-13,https://www.rottentomatoes.com/m/la_la_land/,2016,151.1
+29,Incredibles 2 ,18748,84,384,93,PG,https://www.rottentomatoes.com/m/incredibles_2/,2018,608.6
+30,Zootopia ,101783,92,294,98,PG,https://www.rottentomatoes.com/m/zootopia/,2016,608.6
+31,War For The Planet Of The Apes ,57154,84,360,94,PG-13,https://www.rottentomatoes.com/m/war_for_the_planet_of_the_apes/,2017,146.8
+32,Paddington 2 ,8725,87,246,99,PG,https://www.rottentomatoes.com/m/paddington_2/,2017,38.4
+33,The Florida Project ,13510,80,313,96,R,https://www.rottentomatoes.com/m/the_florida_project/,2017,5.8
+34,Widows ,5407,61,418,91,R,https://www.rottentomatoes.com/m/widows_2018/,2018,42.4
+35,Baby Driver ,63576,86,394,92,R,https://www.rottentomatoes.com/m/baby_driver/,2017,107.8
+36,Spider-Man: Homecoming,108811,87,393,92,PG-13,https://www.rottentomatoes.com/m/spider_man_homecoming/,2017,334.4
+37,Toy Story 3 ,607806,90,309,98,G,https://www.rottentomatoes.com/m/toy_story_3/,2010,415.0
+38,"Three Billboards Outside Ebbing, Missouri ",23199,87,409,90,R,https://www.rottentomatoes.com/m/three_billboards_outside_ebbing_missouri/,2017,54.1
+39,Brooklyn ,46912,87,275,97,PG-13,https://www.rottentomatoes.com/m/brooklyn/,2015,38.3
+40,Finding Dory ,182189,84,334,94,PG,https://www.rottentomatoes.com/m/finding_dory/,2016,486.2
+41,Creed ,76243,89,311,95,PG-13,https://www.rottentomatoes.com/m/creed_2015/,2015,109.7
+42,Blade Runner 2049 ,51454,81,441,88,R,https://www.rottentomatoes.com/m/blade_runner_2049/,2017,91.5
+43,Hell Or High Water ,40241,88,282,96,R,https://www.rottentomatoes.com/m/hell_or_high_water/,2016,27.0
+44,Finding Nemo ,33356856,86,268,99,G,https://www.rottentomatoes.com/m/finding_nemo/,2003,27.0
+45,Captain America: Civil War ,180918,89,422,90,PG-13,https://www.rottentomatoes.com/m/captain_america_civil_war/,2016,408.1
+46,Skyfall ,374312,86,381,92,PG-13,https://www.rottentomatoes.com/m/skyfall/,2012,304.4
+47,First Man ,8914,67,455,87,PG-13,https://www.rottentomatoes.com/m/first_man/,2018,44.8
+48,The Jungle Book ,94772,86,325,94,PG,https://www.rottentomatoes.com/m/the_jungle_book_2016/,2016,364.0
+49,Harry Potter And The Deathly Hallows: Part 2 ,392337,89,331,96,PG-13,https://www.rottentomatoes.com/m/harry_potter_and_the_deathly_hallows_part_2_2011/,2011,381.0
+50,Crazy Rich Asians ,13275,76,364,91,PG-13,https://www.rottentomatoes.com/m/crazy_rich_asians/,2018,174.5
+51,Mission: Impossible Rogue Nation ,93357,87,325,94,PG-13,https://www.rottentomatoes.com/m/mission_impossible_rogue_nation/,2015,174.5
+52,"I, Tonya ",12566,88,384,90,R,https://www.rottentomatoes.com/m/i_tonya/,2017,30.0
+53,The Hurt Locker ,96191,84,289,97,R,https://www.rottentomatoes.com/m/the_hurt_locker/,2008,15.7
+54,Hidden Figures ,58701,93,319,93,PG,https://www.rottentomatoes.com/m/hidden_figures/,2016,169.3
+55,The Social Network ,204404,86,329,96,PG-13,https://www.rottentomatoes.com/m/the-social-network/,2010,96.9
+56,Phantom Thread ,7969,71,355,91,R,https://www.rottentomatoes.com/m/phantom_thread/,2017,20.9
+57,Sorry To Bother You ,6410,70,309,93,R,https://www.rottentomatoes.com/m/sorry_to_bother_you_2018/,2018,17.5
+58,Paterson ,16190,72,261,96,R,https://www.rottentomatoes.com/m/paterson/,2016,2.1
+59,The Lego Movie ,222946,87,253,96,PG,https://www.rottentomatoes.com/m/the_lego_movie/,2014,257.8
+60,Avengers: Infinity War ,60002,91,481,85,PG-13,https://www.rottentomatoes.com/m/avengers_infinity_war/,2018,678.8
+61,Carol ,29754,74,311,94,R,https://www.rottentomatoes.com/m/carol/,2015,12.7
+62,The Martian ,131932,91,381,91,PG-13,https://www.rottentomatoes.com/m/the_martian/,2015,228.4
+63,Whiplash ,70575,94,297,94,R,https://www.rottentomatoes.com/m/whiplash_2014/,2014,13.2
+64,Ant-Man And The Wasp,25211,75,435,87,PG-13,https://www.rottentomatoes.com/m/ant_man_and_the_wasp/,2018,216.6
+65,Nightcrawler ,86518,86,273,95,R,https://www.rottentomatoes.com/m/nightcrawler/,2014,32.4
+66,Moana ,70723,89,281,95,PG,https://www.rottentomatoes.com/m/moana_2016/,2016,248.8
+67,The Disaster Artist ,15340,85,350,91,R,https://www.rottentomatoes.com/m/the_disaster_artist/,2017,21.1
+68,Before Midnight ,37545,82,206,98,R,https://www.rottentomatoes.com/m/before_midnight_2013/,2013,8.1
+69,Isle Of Dogs ,9238,87,366,90,PG-13,https://www.rottentomatoes.com/m/isle_of_dogs_2018/,2018,31.9
+70,Birdman Or (The Unexpected Virtue Of Ignorance) ,93429,78,355,91,R,https://www.rottentomatoes.com/m/birdman_2014/,2014,42.3
+71,Guardians Of The Galaxy ,256401,92,332,92,PG-13,https://www.rottentomatoes.com/m/guardians_of_the_galaxy/,2014,333.7
+72,Hereditary ,13558,68,382,89,R,https://www.rottentomatoes.com/m/hereditary/,2018,44.1
+73,The Post ,12463,73,403,88,PG-13,https://www.rottentomatoes.com/m/the_post/,2017,81.4
+74,Kubo And The Two Strings ,35583,86,223,97,PG,https://www.rottentomatoes.com/m/kubo_and_the_two_strings_2016/,2016,48.0
+75,The Artist ,58689,87,320,95,PG-13,https://www.rottentomatoes.com/m/the_artist/,2011,44.7
+76,How To Train Your Dragon ,312961,91,212,99,PG,https://www.rottentomatoes.com/m/how_to_train_your_dragon/,2010,217.4
+77,Room ,49812,93,316,93,R,https://www.rottentomatoes.com/m/room_2015/,2015,14.7
+78,Her ,101793,82,283,94,R,https://www.rottentomatoes.com/m/her/,2013,25.6
+79,Marvel'S The Avengers ,1136701,91,363,91,PG-13,https://www.rottentomatoes.com/m/marvels_the_avengers/,2012,25.6
+80,Shaun The Sheep Movie ,22744,81,170,99,PG,https://www.rottentomatoes.com/m/shaun_the_sheep_movie/,2015,19.4
+81,It Follows ,45412,66,263,95,R,https://www.rottentomatoes.com/m/it_follows/,2014,14.7
+82,Spy ,82995,78,259,95,R,https://www.rottentomatoes.com/m/spy_2015/,2015,14.7
+83,Son Of Saul ,13003,79,233,96,R,https://www.rottentomatoes.com/m/son_of_saul/,2015,1.8
+84,45 Years ,13778,67,209,97,R,https://www.rottentomatoes.com/m/45_years/,2015,4.3
+85,Hunt For The Wilderpeople ,24992,91,205,97,PG-13,https://www.rottentomatoes.com/m/hunt_for_the_wilderpeople/,2016,5.2
+86,The Grand Budapest Hotel ,97869,86,310,92,R,https://www.rottentomatoes.com/m/the_grand_budapest_hotel/,2014,59.1
+87,The Rider ,2064,82,185,97,R,https://www.rottentomatoes.com/m/the_rider/,2017,2.4
+88,A Separation ,22911,92,179,99,PG-13,https://www.rottentomatoes.com/m/a_separation_2011/,2011,24.4
+89,The Old Man & The Gun ,3030,62,269,93,PG-13,https://www.rottentomatoes.com/m/the_old_man_and_the_gun/,2018,11.1
+90,Doctor Strange ,111007,85,382,89,PG-13,https://www.rottentomatoes.com/m/doctor_strange_2016/,2016,232.6
+91,Edge Of Tomorrow ,148035,90,325,91,PG-13,https://www.rottentomatoes.com/m/live_die_repeat_edge_of_tomorrow/,2014,100.2
+92,Love & Friendship ,20189,60,213,96,PG,https://www.rottentomatoes.com/m/love_and_friendship/,2016,14.0
+93,Captain Phillips ,152631,89,279,93,PG-13,https://www.rottentomatoes.com/m/captain_phillips/,2013,107.1
+94,Logan Lucky ,27856,76,283,92,PG-13,https://www.rottentomatoes.com/m/logan_lucky/,2017,27.8
+95,Only Yesterday ,210,84,57,100,no_rating,https://www.rottentomatoes.com/m/only_yesterday_1991/,1991,27.8
+96,Mcqueen ,853,79,124,99,R,https://www.rottentomatoes.com/m/mcqueen/,2018,1.3
+97,American Hustle ,176079,74,294,92,R,https://www.rottentomatoes.com/m/american_hustle/,2013,150.1
+98,The Nice Guys ,56438,79,320,91,R,https://www.rottentomatoes.com/m/the_nice_guys/,2016,36.2
+99,True Grit ,158405,85,275,95,PG-13,https://www.rottentomatoes.com/m/true_grit_2010/,2010,171.0
+100,Weiner ,7905,83,176,97,R,https://www.rottentomatoes.com/m/weiner/,2016,1.7
