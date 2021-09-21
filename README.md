@@ -18,8 +18,8 @@ The exercise involved multiple steps:
 
 #### Data Wrangling:
 Data was scrapped from multiple webpages:
-a.	The URLs and rankings for the RT top 100 movies were scrapped from the homepage: [here] (https://www.rottentomatoes.com/top/bestofrt/)
-b.	The URLs were used to extract the following information:
+1. The URLs and rankings for the RT top 100 movies were scrapped from the homepage: [here] (https://www.rottentomatoes.com/top/bestofrt/)
+2. The URLs were used to extract the following information:
 * Audience Count
 * Audience Score
 * Critic Count
