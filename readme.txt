@@ -1,3 +1,6 @@
+# Web Scraping Exercise
+## Analysing Rotten Tomatoes Top 100 ranking (RT-100)
+
 A data scraping exercise was performed in Jupyter Notebook (RT100_analysis.ipynb). 
 The purpose of this exercise is to understand how the critic ratings weigh against audience ratings for the top 100 films rated on Rotten Tomatoes and whether critic ratings should be the ultimate truth metric for a movie's success rating
 The exercise involved multiple steps:
